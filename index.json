@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "pytest-examples",
+  "versions": [
+    {
+      "commit": "df945f7043cb8c456359b01700f3d664d30fbe44",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:55:28.655863+00:00"
+    }
+  ]
+}
